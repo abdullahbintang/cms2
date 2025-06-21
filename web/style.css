@@ -27,8 +27,8 @@ a {
 }
 
 .header-bg {
-  height: 200px;
-  background-image: url('bg.png');
+  height: 250px;
+  background-image: url('gambar2.jpeg');
   background-size: cover;
   background-position: center;
 }
@@ -52,6 +52,7 @@ a {
 }
 
 .header-text {
+  color: black;
   margin-top: 40px;
   padding: 30px 30px 10px 30px;
 }
